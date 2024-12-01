@@ -1,6 +1,6 @@
 ---
 title: "The Architecture of Academic Writing: First steps"
-date: 2024-12-01 00:00:00 +0200
+date: 2024-12-01 00:80:00 +0200
 categories: [Academic Writing, Structure, Best Practices]
 tags: [Academic Writing, Structure, Best Practices]
 ---
